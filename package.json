@@ -1,0 +1,31 @@
+{
+  "name": "dgram_pd",
+  "version": "1.0.0",
+  "description": "blockchain academy",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooqii/DGram_PD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooqii/DGram_PD/issues"
+  },
+  "homepage": "https://github.com/wooqii/DGram_PD#readme",
+  "dependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/node": "^7.10.5",
+    "graphql-yoga": "^1.18.3",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4",
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/node": "^7.10.5"
+  }
+}
